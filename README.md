@@ -5,7 +5,7 @@
 
 ### 🌍 About Me:
 - **Software Engineer** with a knack for crafting scalable web applications and innovative cloud solutions ☁️.
-- Based in the **United Kingdom** 🇬🇧, currently thriving as a **Freelance React Developer** .
+- Based in the **United Kingdom** 🇬🇧, currently thriving as a **Developer at SHB Real Estate** .
 - Earned my **Master's in Advanced Computer Science** from the University of Leicester 🎓.
 
 ### 💻 Tech Stack:
@@ -42,10 +42,14 @@
 
 
 #### DevOps
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-000?&logo=DigitalOcean)](https://www.digitalocean.com/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://jenkins.io/)
+[![NGINX](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)](https://nginx.org/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
 
 #### Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
